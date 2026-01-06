@@ -1,0 +1,16 @@
+[
+  {
+    "id": "b5cca118-0215-41a3-8ed4-a7e217b2693d",
+    "name": "nadya",
+    "email": "nadya.nov13@gmail.com",
+    "teamId": "5eacfd3f-3d52-41c0-8b63-47cf2aeec79a",
+    "registeredAt": "2026-01-03T23:04:05.720Z"
+  },
+  {
+    "id": "1389a8e6-f985-4306-87f4-7cb8e72532d0",
+    "name": "pavel",
+    "email": "www@wwer.com",
+    "teamId": "5eacfd3f-3d52-41c0-8b63-47cf2aeec79a",
+    "registeredAt": "2026-01-03T23:05:21.813Z"
+  }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "id": "8a49b896-79ed-4608-ba97-eb2ba9dd66b2",
+    "teamId": "5eacfd3f-3d52-41c0-8b63-47cf2aeec79a",
+    "name": "Morning Practice",
+    "date": "2026-01-11",
+    "time": "18:10",
+    "createdAt": "2026-01-03T23:08:33.754Z"
+  },
+  {
+    "id": "4ece535a-46d2-4a0a-8ead-b68b7220d5be",
+    "teamId": "5eacfd3f-3d52-41c0-8b63-47cf2aeec79a",
+    "name": "Past Practice Session",
+    "date": "2025-12-15",
+    "time": "14:00",
+    "createdAt": "2026-01-03T23:12:11.274Z"
+  },
+  {
+    "id": "5ade3da9-93cd-4a8d-bb4d-426fad9e8080",
+    "teamId": "5eacfd3f-3d52-41c0-8b63-47cf2aeec79a",
+    "name": "Old Practice from Last Year",
+    "date": "2024-06-10",
+    "time": "16:30",
+    "createdAt": "2026-01-03T23:12:16.628Z"
+  }
+]
